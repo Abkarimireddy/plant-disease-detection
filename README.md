@@ -1,2 +1,2 @@
-# plant-disease-detection
-This project involves a deep learning model for plant disease detection using images of various plants, including apple, cherry, corn, grape, potato, strawberry, and tomato. The model achieved an accuracy of 97.21%, with high precision and specificity, making it effective for classifying plant diseases.
+# Crop Disease Detection Using Deep Learning:
+Developed deep learning-based image classification models using a custom CNN and ResNet50 architecture to automatically identify and categorize crop diseases from leaf images. Leveraged the PlantVillage dataset, covering multiple crops like apple, cherry, corn, grape, potato, strawberry, and tomato. Applied data augmentation, preprocessing, and multi-class classification, resulting in high-performance models effective for real-world agricultural disease detection
